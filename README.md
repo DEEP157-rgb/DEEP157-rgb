@@ -6,10 +6,14 @@
 
 ## 🎯 About Me
 
-I'm a **Data Scientist & Data Analyst** passionate about turning data into insights.
+I'm a **Data Scientist & Data Analyst** with strong expertise in transforming data into actionable insights and driving data-driven decision-making.
 
-- 🔍 Skilled in **SQL, Python, Power BI**
-- 🤖 Interested in **Machine Learning**
-- ☁️ Learning **AWS Cloud**
-- 📊 Strong in **Data Analysis & Visualization**
-- 🎓 MBA in **Finance + IT**
+With a solid foundation in **SQL, Python, R, and Power BI**, I specialize in **data analysis, visualization, and reporting**.
+
+🤖 Certified in **Machine Learning**, with hands-on experience in building predictive models and extracting meaningful insights from data.
+
+☁️ Knowledge of **AWS Cloud and modern data technologies** for scalable data solutions.
+
+🎓 MBA in **Finance & IT** from **Manipal University Jaipur**, combining business acumen with analytical expertise.
+
+💼 Experience in **MIS Reporting & Business Analytics**, helping organizations make strategic, data-driven decisions.
