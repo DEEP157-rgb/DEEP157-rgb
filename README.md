@@ -19,12 +19,16 @@ With a solid foundation in **SQL, Python, R, and Power BI**, I specialize in **d
 💼 Experience in **MIS Reporting & Business Analytics**, helping organizations make strategic, data-driven decisions.
 ## 🚀 Languages and Tools
 
+
+## 🚀 Languages and Tools
+
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
