@@ -17,3 +17,14 @@ With a solid foundation in **SQL, Python, R, and Power BI**, I specialize in **d
 🎓 MBA in **Finance & IT** from **Manipal University Jaipur**, combining business acumen with analytical expertise.
 
 💼 Experience in **MIS Reporting & Business Analytics**, helping organizations make strategic, data-driven decisions.
+## 🚀 Languages and Tools
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sql" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,aws,git,github,vscode" />
+</p>
